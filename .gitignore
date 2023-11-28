@@ -1,0 +1,97 @@
+# General
+.DS_Store
+Thumbs.db
+*.lnk
+*.lock
+*.tmp
+*.bak
+*.orig
+*~
+.cache
+.pyc
+.pyo
+.pyd
+*.log
+*.out
+*.lck
+*.bin
+*.class
+*.so
+*.dll
+*.a
+*.jar
+*.war
+*.ear
+*.car
+*.wsdp
+.npmrc
+node_modules/
+*.gem
+.bundle
+vendor/bundle/
+lib/
+lib64/
+gems/
+spec/
+doc/
+coverage/
+pids/
+tmp/
+temp/
+cache/
+assets/
+*.scssc
+*.sassc
+*.css.map
+.eslintcache
+dist/
+
+# Rails
+.rspec
+capybara-*.html
+*.orig
+rerun.txt
+spork-*.pstore
+*.sass-cache
+*.ruby-version
+.editorconfig
+
+# JavaScript
+npm-debug.log
+.uglify-config
+coverage/
+
+# PHP
+*~
+.env
+.DS_Store
+.idea/
+*.swp
+
+# HTML, CSS, JS
+.htaccess
+*.min.css
+*.min.js
+*.min.html
+config.js
+
+# Bundler
+.bundle
+Gemfile.lock
+
+# RVM
+.rvmrc
+.ruby-version
+.ruby-gemset
+
+# Logs
+logs
+*.log
+*.tlog
+
+# Translations
+*.mo
+*.pot
+
+
+
